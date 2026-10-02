@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "passions": "Passions"
+  },
+  "cv": "Download my CV",
+  "theme": "Toggle theme",
+  "hero": {
+    "eyebrow": "Fullstack developer · Apprentice engineer",
+    "title1": "I design",
+    "title2": "digital solutions",
+    "text": "Apprentice computer science engineer at CESI and fullstack developer at Worldline, I build applications used by the general public.",
+    "cta": "See my projects",
+    "scroll": "Scroll"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "The tools I use every day",
+    "text": "From front-end to deployment, I work across the entire application stack.",
+    "groups": {
+      "front": "Front-end",
+      "back": "Back-end",
+      "data": "Data & DevOps"
+    }
+  },
+  "xp": {
+    "eyebrow": "Experience",
+    "title1": "Hands-on company experience,",
+    "title2": "from the very first year",
+    "jobs": [
+      {
+        "role": "Fullstack developer apprentice",
+        "org": "Worldline/Magellan · Secure Titles",
+        "period": "Sept. 2025 → present",
+        "points": [
+          "Member of the team behind the public-facing applications Portail, RDV Mairie and Timbres",
+          "Functional enhancements using Agile methodology",
+          "Contributed to the project's migration to Ansible"
+        ],
+        "stack": [
+          "Java",
+          "Ember.js",
+          "JUnit",
+          "PostgreSQL",
+          "Ansible",
+          "GitLab",
+          "Jira"
+        ]
+      },
+      {
+        "role": "Fullstack developer intern",
+        "org": "Worldline · Secure Titles",
+        "period": "Apr. 2025 → July 2025",
+        "points": [
+          "Member of the team behind the public-facing application Portail",
+          "Functional enhancements using Agile methodology",
+          "Development of internal tools"
+        ],
+        "stack": [
+          "Java",
+          "Ember.js",
+          "JUnit",
+          "PostgreSQL",
+          "Ansible"
+        ]
+      },
+      {
+        "role": "Employee and team leader",
+        "org": "Leclerc Drive",
+        "period": "Feb. 2024 → Mar. 2025",
+        "points": [
+          "Order preparation and customer delivery",
+          "Customer dispute management",
+          "Training of new employees"
+        ],
+        "stack": []
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title1": "Concrete achievements,",
+    "title2": "carried out during my studies",
+    "text": "Two complete projects, from the database to the interface.",
+    "items": [
+      {
+        "title": "Car rental website",
+        "tag": "Web",
+        "desc": "Vehicle booking website with a customer interface and server-side data management.",
+        "stack": [
+          "Angular",
+          "PHP",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "title": "Sports social network",
+        "tag": "Web · AI",
+        "desc": "A network for meeting people through sport, with image and animation generation for profiles and posts.",
+        "stack": [
+          "Angular",
+          "Spring Boot",
+          "MongoDB",
+          "Generative AI"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About",
+    "title1": "Rigorous, curious,",
+    "title2": "On a work-study track",
+    "text": "I completed a BUT in Computer Science at IUT de Lens, and I'm continuing with an engineering degree at CESI as an apprentice. I learn in the field, as part of a team, working on applications used every day.",
+    "edu": [
+      {
+        "year": "2026 → 2029",
+        "title": "Computer Science Engineering degree (apprenticeship)",
+        "place": "CESI Engineering School"
+      },
+      {
+        "year": "2023 → 2026",
+        "title": "BUT in Computer Science",
+        "place": "IUT de Lens"
+      },
+      {
+        "year": "2023",
+        "title": "General baccalauréat, Mention Assez Bien (Merit)",
+        "place": "Mathematics / Physics, Lycée Denis Diderot, Carvin"
+      }
+    ],
+    "langsTitle": "Languages",
+    "langs": [
+      {
+        "n": "French",
+        "l": "Native language"
+      },
+      {
+        "n": "English",
+        "l": "B1"
+      },
+      {
+        "n": "Spanish",
+        "l": "Intermediate"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your project",
+    "text": "A question, an opportunity or a project? Write to me.",
+    "cta": "Get in touch"
+  },
+  "footer": "© {{year}} Antoine Ledoux",
+  "passions": {
+    "eyebrow": "Passions",
+    "title1": "Beyond the code,",
+    "title2": "what keeps me going",
+    "text": "When I'm not coding, I'm out on the road, in my sneakers, or at home with my cats.",
+    "items": [
+      {
+        "key": "moto",
+        "title": "Motorcycling",
+        "desc": "I ride a Kawasaki ER-6N. It's my way of clearing my head and enjoying the road.",
+        "images": ["moto1"],
+        "alts": ["Antoine with his Kawasaki ER-6N"]
+      },
+      {
+        "key": "sport",
+        "title": "Sport",
+        "desc": "Running, weightlifting, and anything else that can be practiced: I love pushing my limits and staying consistent.",
+        "images": ["sport1", "sport2"],
+        "alts": ["Antoine during a weightlifting session", "Antoine trail running"]
+      },
+      {
+        "key": "chats",
+        "title": "My five cats",
+        "desc": "Animals have always been part of my life. Today, I have five cats at home.",
+        "images": ["chat1", "chat2", "chat3", "chat4"],
+        "alts": ["White cat asleep", "Grey and white cat in a car", "Grey cats in a bed", "Brown and white cat"]
+      }
+    ]
+  }
+}

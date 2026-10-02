@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "experience": "Parcours",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "passions": "Passions"
+  },
+  "cv": "Télécharger mon CV",
+  "theme": "Changer de thème",
+  "hero": {
+    "eyebrow": "Développeur fullstack · Apprenti ingénieur",
+    "title1": "Je conçois",
+    "title2": "des solutions numériques",
+    "text": "Apprenti ingénieur en informatique au CESI et développeur fullstack chez Worldline, je conçois des applications utilisées par le grand public.",
+    "cta": "Voir mes projets",
+    "scroll": "Défiler"
+  },
+  "skills": {
+    "eyebrow": "Compétences",
+    "title": "Les outils que j'utilise au quotidien",
+    "text": "Du front-end au déploiement, je travaille sur toute la chaîne d'une application.",
+    "groups": {
+      "front": "Front-end",
+      "back": "Back-end",
+      "data": "Données & DevOps"
+    }
+  },
+  "xp": {
+    "eyebrow": "Parcours",
+    "title1": "Une pratique en entreprise,",
+    "title2": "dès la première année",
+    "jobs": [
+      {
+        "role": "Alternant développeur fullstack",
+        "org": "Worldline/Magellan · Titres sécurisés",
+        "period": "Sept. 2025 → aujourd'hui",
+        "points": [
+          "Équipe des applications grand public Portail, RDV Mairie et Timbres",
+          "Évolutions fonctionnelles en méthode Agile",
+          "Participation à la migration du projet vers Ansible"
+        ],
+        "stack": [
+          "Java",
+          "Ember.js",
+          "JUnit",
+          "PostgreSQL",
+          "Ansible",
+          "GitLab",
+          "Jira"
+        ]
+      },
+      {
+        "role": "Stagiaire développeur fullstack",
+        "org": "Worldline · Titres sécurisés",
+        "period": "Avr. 2025 → Juil. 2025",
+        "points": [
+          "Équipe des applications grand public Portail",
+          "Évolutions fonctionnelles en méthode Agile",
+          "Développement d'outils internes"
+        ],
+        "stack": [
+          "Java",
+          "Ember.js",
+          "JUnit",
+          "PostgreSQL",
+          "Ansible"
+        ]
+      },
+      {
+        "role": "Employé et chef d'équipe",
+        "org": "Leclerc Drive",
+        "period": "Févr. 2024 → Mars 2025",
+        "points": [
+          "Préparation de commandes et livraison clients",
+          "Gestion des litiges clients",
+          "Formation des nouveaux employés"
+        ],
+        "stack": []
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "title1": "Des réalisations concrètes,",
+    "title2": "menées pendant mes études",
+    "text": "Deux projets complets, de la base de données à l'interface.",
+    "items": [
+      {
+        "title": "Site de location de voiture",
+        "tag": "Web",
+        "desc": "Site de réservation de véhicules avec interface client et gestion des données côté serveur.",
+        "stack": [
+          "Angular",
+          "PHP",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "title": "Réseau social sportif",
+        "tag": "Web · IA",
+        "desc": "Réseau pour se rencontrer autour du sport, avec génération d'images et d'animations pour les profils et les publications.",
+        "stack": [
+          "Angular",
+          "Spring Boot",
+          "MongoDB",
+          "IA générative"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title1": "Rigoureux, curieux,",
+    "title2": "En alternance",
+    "text": "J'ai fait un BUT Informatique à l'IUT de Lens, et je poursuis en cycle ingénieur au CESI en apprentissage. J'apprends sur le terrain, en équipe, sur des applications utilisées au quotidien.",
+    "edu": [
+      {
+        "year": "2026 → 2029",
+        "title": "Ingénieur informatique en apprentissage",
+        "place": "CESI École d'Ingénieurs"
+      },
+      {
+        "year": "2023 → 2026",
+        "title": "BUT Informatique",
+        "place": "IUT de Lens"
+      },
+      {
+        "year": "2023",
+        "title": "Baccalauréat général, mention assez bien",
+        "place": "Mathématiques / Physique, Lycée Denis Diderot, Carvin"
+      }
+    ],
+    "langsTitle": "Langues",
+    "langs": [
+      {
+        "n": "Français",
+        "l": "Langue maternelle"
+      },
+      {
+        "n": "Anglais",
+        "l": "B1"
+      },
+      {
+        "n": "Espagnol",
+        "l": "Intermédiaire"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Parlons de votre projet",
+    "text": "Une question, une opportunité ou un projet ? Écrivez-moi.",
+    "cta": "M'écrire"
+  },
+  "footer": "© {{year}} Antoine Ledoux",
+  "passions": {
+    "eyebrow": "Passions",
+    "title1": "Au-delà du code,",
+    "title2": "ce qui me fait avancer",
+    "text": "Quand je ne développe pas, je suis sur la route, en baskets ou à la maison avec mes chats.",
+    "items": [
+      {
+        "key": "moto",
+        "title": "La moto",
+        "desc": "Je roule en Kawasaki ER-6N. C'est ma façon de me vider la tête et de profiter de la route.",
+        "images": ["moto1"],
+        "alts": ["Antoine avec sa Kawasaki ER-6N"]
+      },
+      {
+        "key": "sport",
+        "title": "Le sport",
+        "desc": "Course à pied, musculation, et tout ce qui se pratique : j'aime me dépasser et rester régulier.",
+        "images": ["sport1", "sport2"],
+        "alts": ["Antoine en séance de musculation", "Antoine en trail running"]
+      },
+      {
+        "key": "chats",
+        "title": "Mes cinq chats",
+        "desc": "Les animaux ont toujours fait partie de ma vie. Aujourd'hui, j'ai cinq chats à la maison.",
+        "images": ["chat1", "chat2", "chat3", "chat4"],
+        "alts": ["Chat blanc endormi", "Chat gris et blanc en voiture", "Chats gris en lit", "Chat marron et blanc"]
+      }
+    ]
+  }
+}
